@@ -7,7 +7,7 @@
 🛠️ My Backend Arsenal:
 - Languages: JavaScript , PHP, Go
 - Frameworks: Laravel, Vue JS
-- Databases: MySQL
+- Databases: MySQL, PostgreSQL
 - Git is my trusty sidekick!
 
 📫 Let's chat about backend architecture, optimizations, AI, or anything tech-related. Feel free to connect!
