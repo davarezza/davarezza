@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davarezza&label=Profile%20views&color=0e75b6&style=flat" alt="davarezza" /> </p>
 
 # 💫 About Me:
-🔭 I’m currently studying at SMKN 1 Purwosari<br><br>🌱 I’m currently learning Laravel, Golang, JavaScript, MySQL, PostgreSQL<br><br>👯 I’m looking to collaborate on Programming Projects<br><br>💬 Let's talk about Backend Programming<br><br>📫 How to reach me: aremadava3@gmail.com<br><br>⚡ Fun fact: Study for short periods of time but can still do well on assignments or exams.😄
+🔭 I’m currently studying at SMKN 1 Purwosari<br><br>🌱 I’m currently learning Laravel, Golang, JavaScript, MySQL, PostgreSQL<br><br>🚀 I am currently interning at Sekawan Media as a backend developer.<br><br>👯 I’m looking to collaborate on Programming Projects<br><br>💬 Let's talk about Backend Programming<br><br>📫 How to reach me: aremadava3@gmail.com<br>
 
 
 ## 🌐 Socials:
